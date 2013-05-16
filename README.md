@@ -3,7 +3,7 @@ bottomcoders.com/tc
 hey, http://bottomcoders.com/tc! $1,195 is too expensive.
 Members
 --
-ecleya, imyoyo, xhae
+ecleya, [imyoyo](http://community.topcoder.com/tc?module=MemberProfile&cr=15001291), xhae
 
 Awards
 --
