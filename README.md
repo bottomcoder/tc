@@ -5,7 +5,7 @@ Members
 --
 - ecleya
 - [imyoyo](http://community.topcoder.com/tc?module=MemberProfile&cr=15001291) - 한때 온사이터
-- xhae
+- [xhae](http://community.topcoder.com/tc?module=MemberProfile&cr=22700610) - wanna be red for n years
 
 Awards
 --
