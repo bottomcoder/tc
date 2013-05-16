@@ -1,3 +1,10 @@
 bottomcoders.com/tc
 ==
-79th Place in IPSC 2012
+
+Members
+--
+ecleya, imyoyo, xhae
+
+Awards
+--
+- 79th Place in IPSC 2012
