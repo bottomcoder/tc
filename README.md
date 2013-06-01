@@ -1,6 +1,5 @@
 bottomcoder.com/tc
 ==
-hey, http://bottomcoder.com/tc! $1,195 is too expensive.
 Members
 --
 - [ecleya](http://community.topcoder.com/tc?module=MemberProfile&cr=14892106) - I'm blue. :(
