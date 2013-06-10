@@ -31,7 +31,7 @@ public class H2 {
 		int v2 = scan.nextInt();
 		int sum = v1 + v2;
 		
-		// 더하기 결과를 헤더에 심어서 보낸다.
+		// 더하기 결과를 헤더에 심어서 보낸다. 그럼 최종답을 알려줌.
 		HashMap<String, String> headers2 = new HashMap<String, String>();
 		headers2.put("H2-Answer", sum + "");
 		HttpResponse r2 = HttpGet.request(client, "/2013/real/problems/h.html", new HashMap<String, String>(), headers2, "UTF-8", TransferProgressListener.EMPTY_LISTENER);
