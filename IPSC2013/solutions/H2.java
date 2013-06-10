@@ -23,7 +23,7 @@ public class H2 {
 		HttpResponse r1 = HttpGet.request(client, "/2013/real/problems/h.html", new HashMap<String, String>(), headers1, "UTF-8", TransferProgressListener.EMPTY_LISTENER);
 		String header = r1.headers.toString();
 
-		// 그럼 이 괴물이 간단한 더하기 산수문제를 낸다. 그런데 계속 답이 바뀌기 때문에 바로 답을 구해서 알려준다.
+		// 그럼 이 괴물이 response 헤더로 간단한 더하기 산수문제를 보낸다. 그런데 계속 문제를 바꾸기 때문에 바로 답을 구해서 알려줘야한다.
 		String start = "How much is ";
 		Scanner scan = new Scanner(header.substring(header.indexOf(start) + start.length()).replace('?', ' '));
 		int v1 = scan.nextInt();
