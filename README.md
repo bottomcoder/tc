@@ -8,6 +8,7 @@ Members
 
 Awards
 --
+- 154th Place in IPSC 2017
 - 163rd Place in IPSC 2016
 - 147th Place in IPSC 2015
 - 201st Place in IPSC 2014
