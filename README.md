@@ -4,10 +4,12 @@ Members
 --
 - [ecleya](http://community.topcoder.com/tc?module=MemberProfile&cr=14892106) - I'm blue. :(
 - [imyoyo](http://community.topcoder.com/tc?module=MemberProfile&cr=15001291) - Yellow Forever
+- [neoevoke](https://www.topcoder.com/members/neoevoke/)
 - [xhae](http://community.topcoder.com/tc?module=MemberProfile&cr=22700610) - Time to be a red
 
 Awards
 --
+- 114th Place in IPSC 2018
 - 154th Place in IPSC 2017
 - 163rd Place in IPSC 2016
 - 147th Place in IPSC 2015
